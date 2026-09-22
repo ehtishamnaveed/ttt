@@ -1,0 +1,3513 @@
+{
+  "global": {
+    "companyName": "fulg",
+    "legalName": "fulg",
+    "logoUrl": "",
+    "phone": "asd",
+    "whatsapp": "asd",
+    "email": "as@mail.com",
+    "address": "asd",
+    "hours": "Mon – Fri: 08:00 – 17:30 | Sat: 08:00 – 13:00 GST",
+    "tradeLicence": "JAFZA-FZ-91402",
+    "freezoneJurisdiction": "Jebel Ali Free Zone Authority (JAFZA)",
+    "mapLocation": "JAFZA South, Dubai, UAE",
+    "downloadProfileText": "Download Official Capability Statement & MTC Spec Sheet (PDF)",
+    "social": {
+      "linkedin": "https://linkedin.com/company/apex-industrial-supply-uae"
+    }
+  },
+  "pages": {
+    "home": {
+      "hero": {
+        "headline": "Bulk Industrial Metals, Structural Steel & API Line Pipe Supply",
+        "subhead": "Direct mill allocations, breakbulk vessel chartering, and JAFZA bonded stock serving EPC contractors and infrastructure builders across the GCC and East Africa.",
+        "ctaLabel": "Request Bulk Quote",
+        "secondaryCtaLabel": "Explore Specifications",
+        "badgeText": "ISO 9001:2015 Certified • JAFZA Licensed Stockist",
+        "image": "https://images.unsplash.com/photo-1504917599217-d4dc5ebe6122?w=1600&auto=format&fit=crop&q=80"
+      },
+      "trustStrip": {
+        "badgeLabel": "Quality Accreditations",
+        "items": [
+          "API 5L & ASTM A106 Compliant",
+          "ISO 9001:2015 Registered Quality System",
+          "DP World Jebel Ali Terminal Partner",
+          "SGS & Bureau Veritas Third-Party Verified",
+          "Chamber of Commerce GCC Certificate of Origin"
+        ]
+      },
+      "whatWeDo": {
+        "title": "Core Commodity Divisions",
+        "subtitle": "Certified inventory maintained in bonded warehouse facilities ready for immediate dispatch.",
+        "items": [
+          {
+            "id": "cat-pipes",
+            "title": "API Seamless & ERW Line Pipes",
+            "desc": "High-yield carbon steel and stainless piping adhering to API 5L, ASTM A53, and ASTM A106 Gr. B specifications for oil, gas, and water transport.",
+            "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&auto=format&fit=crop&q=80",
+            "badge": "API 5L PSL2",
+            "specs": "Grades B, X52, X65 • Sizes 0.5\" to 48\" OD"
+          },
+          {
+            "id": "cat-beams",
+            "title": "Heavy Structural Sections & Plates",
+            "desc": "Universal beams, columns, channels, and ASTM A36 / S355JR structural plates for heavy civil fabrication, offshore platforms, and commercial warehouses.",
+            "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&auto=format&fit=crop&q=80",
+            "badge": "EN 10025 S355",
+            "specs": "UB / UC / HEB Sections up to 914mm"
+          },
+          {
+            "id": "cat-valves",
+            "title": "Engineered Valves & Flanges",
+            "desc": "Forged steel gate, globe, check, and ball valves in ASME Class 150 through 2500 with complete NACE MR0175 sour service compliance.",
+            "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800&auto=format&fit=crop&q=80",
+            "badge": "ASME B16.34",
+            "specs": "RF & RTJ Flanges, ASTM A105 / F316"
+          },
+          {
+            "id": "cat-fittings",
+            "title": "Buttweld Fittings & Reducers",
+            "desc": "Long radius elbows, equal tees, concentric reducers, and caps with heat treatment and 100% radiographic weld testing documentation.",
+            "image": "https://images.unsplash.com/photo-1504917599217-d4dc5ebe6122?w=1600&auto=format&fit=crop&q=80",
+            "badge": "ASME B16.9",
+            "specs": "Wall thickness Sch 10 through Sch XXS"
+          }
+        ]
+      },
+      "proof": {
+        "title": "Engineered Procurement Performance",
+        "subtitle": "Every shipment is backed by verified EN 10204 3.1 Mill Test Certificates and rapid port dispatch.",
+        "stats": [
+          {
+            "label": "Metric Tons Supplied",
+            "value": "185,000+"
+          },
+          {
+            "label": "Stockyard Capacity",
+            "value": "45,000 m²"
+          },
+          {
+            "label": "EPC Projects Supplied",
+            "value": "340+"
+          },
+          {
+            "label": "Dispatch Lead Time",
+            "value": "48 Hours"
+          }
+        ]
+      },
+      "aboutTeaser": {
+        "title": "About Apex Industrial Supplies",
+        "paragraph": "Founded in JAFZA, Dubai, Apex Industrial Supplies has grown into a cornerstone supply chain partner for EPC operators, marine fabricators, and regional utilities throughout the Arabian Gulf.",
+        "ctaText": "Corporate Profile & Leadership",
+        "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&auto=format&fit=crop&q=80"
+      },
+      "finalCta": {
+        "headline": "Ready to Request a Commercial RFQ?",
+        "subhead": "Our technical procurement engineers respond within 4 business hours with certified mill availability, FOB/CIF pricing, and shipping schedule.",
+        "buttonText": "Submit Technical RFQ"
+      }
+    },
+    "about": {
+      "header": {
+        "title": "Corporate Heritage & Trade Capacity",
+        "subtitle": "Over a decade of delivering verified steel, alloys, and industrial hardware to the Middle East."
+      },
+      "story": {
+        "headline": "Built on Rigorous Material Integrity and Reliability",
+        "paragraph1": "Apex Industrial Supplies was founded with a single objective: to eliminate counterfeit materials and supply bottlenecks in the regional industrial sector.",
+        "paragraph2": "Operating from our central 45,000 m² bonded storage yard in Jebel Ali Free Zone, our inventory provides regional contractors with the agility to meet stringent milestone schedules without offshore mill lead times.",
+        "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&auto=format&fit=crop&q=80"
+      },
+      "missionVision": {
+        "mission": "To supply the highest grade certified structural and piping commodities with uncompromising transparency and on-time port delivery.",
+        "vision": "To be the preferred supply chain distributor across the Middle East and East Africa for vital infrastructure materials.",
+        "values": "Material Verification — Zero compromise on quality. Integrity — Transparent pricing without hidden port fees. Speed — Continuous 24/7 yard logistics."
+      },
+      "whyChooseUs": [
+        {
+          "title": "Mill Test Certification (MTC 3.1)",
+          "description": "Complete chemical and mechanical traceability for every individual heat lot.",
+          "iconName": "FileCheck"
+        },
+        {
+          "title": "JAFZA Bonded Yard Access",
+          "description": "Zero duty transit for onward export across the GCC, Africa, and CIS nations.",
+          "iconName": "Warehouse"
+        },
+        {
+          "title": "Independent Third-Party Inspection",
+          "description": "Pre-shipment verification by Bureau Veritas, Lloyd’s Register, and SGS.",
+          "iconName": "ShieldCheck"
+        },
+        {
+          "title": "Heavy Breakbulk Chartering",
+          "description": "Dedicated vessel chartering and container stuffing directly adjacent to Jebel Ali Port.",
+          "iconName": "Ship"
+        }
+      ],
+      "milestones": [
+        {
+          "yearOrMetric": "2014",
+          "label": "Incorporation",
+          "detail": "Apex Industrial established inside JAFZA South with 10,000 m² facility."
+        },
+        {
+          "yearOrMetric": "2018",
+          "label": "API Alignment",
+          "detail": "Awarded preferred vendor status for major UAE utility and energy consortia."
+        },
+        {
+          "yearOrMetric": "185K+",
+          "label": "Tons Shipped",
+          "detail": "Cumulative milestone of certified metals successfully delivered to site."
+        }
+      ]
+    },
+    "services": {
+      "header": {
+        "title": "Product Divisions & Procurement Programs",
+        "intro": "Explore our standard stock catalog and project-managed mill rolling arrangements."
+      },
+      "categories": [
+        {
+          "id": "cat-1",
+          "title": "Carbon Steel Line Pipe",
+          "desc": "API 5L Gr. B through X70 seamless and welded for energy and infrastructure transport.",
+          "tags": [
+            "API 5L",
+            "ASTM A106",
+            "JAFZA Stock"
+          ],
+          "moqOrRate": "MOQ: 1 x 20ft Container (approx. 22 MT)",
+          "iconName": "Layers"
+        },
+        {
+          "id": "cat-2",
+          "title": "Heavy Structural Sections",
+          "desc": "Universal beams, European standard HEB/IPE beams, and high-tensile plates.",
+          "tags": [
+            "EN 10025",
+            "ASTM A36",
+            "S355JR"
+          ],
+          "moqOrRate": "MOQ: 15 Metric Tons",
+          "iconName": "Shield"
+        },
+        {
+          "id": "cat-3",
+          "title": "Forged Flanges & Pressure Fittings",
+          "desc": "Blind, weld neck, slip-on flanges and high-pressure fittings up to Class 2500.",
+          "tags": [
+            "ASME B16.5",
+            "Class 150-2500"
+          ],
+          "moqOrRate": "MOQ: 1 Pallet / Crate",
+          "iconName": "Settings"
+        },
+        {
+          "id": "cat-4",
+          "title": "Stainless & High Nickel Alloys",
+          "desc": "Grade 304/304L, 316/316L, and duplex 2205 sheets, bars, and tubing for desalination.",
+          "tags": [
+            "UNS S31803",
+            "Marine Grade"
+          ],
+          "moqOrRate": "MOQ: Direct Mill / Warehouse",
+          "iconName": "Sparkles"
+        }
+      ],
+      "detailSection1": {
+        "title": "Quality Testing & Positive Material Identification (PMI)",
+        "description": "Our in-house QA lab verifies material metallurgy using handheld XRF analyzers and ultrasonic thickness gauges prior to customs dispatch.",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800&auto=format&fit=crop&q=80",
+        "bulletPoints": [
+          "100% PMI verification on all high-alloy lots",
+          "Full EN 10204 3.1 & 3.2 documentation packs provided",
+          "Complete heat number traceability stamped on all pieces"
+        ]
+      },
+      "detailSection2": {
+        "title": "Export Packing & Port Marshalling",
+        "description": "Customized wooden crating, fumigation, moisture-barrier wrapping, and color-coded bundle tagging meeting strict international export standards.",
+        "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&auto=format&fit=crop&q=80",
+        "bulletPoints": [
+          "Seaworthy bundle preservation for ocean freight",
+          "Direct vessel loading at Jebel Ali Terminal 1 & Terminal 2",
+          "Pre-cleared customs documentation for GCC cross-border road transit"
+        ]
+      },
+      "process": [
+        {
+          "step": "01",
+          "title": "Technical Enquiry",
+          "description": "Submit your Bill of Quantities (BOQ) with specific ASTM/API standards."
+        },
+        {
+          "step": "02",
+          "title": "Formal Commercial Quotation",
+          "description": "Itemized quotation issued with stock status, lead times, and MTC samples."
+        },
+        {
+          "step": "03",
+          "title": "Yard Inspection & Staging",
+          "description": "Material staged, tagged, and made available for client or third-party survey."
+        },
+        {
+          "step": "04",
+          "title": "Dispatch & Logistics",
+          "description": "Direct transfer to port vessel or flatbed transport with full customs manifests."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Do you provide Mill Test Certificates (MTC) with every order?",
+          "answer": "Yes. Every delivery includes original 3.1 Mill Test Certificates detailing chemical composition, tensile strength, and impact test values."
+        },
+        {
+          "question": "What Incoterms do you support for international shipments?",
+          "answer": "We regularly execute under Ex-Works (JAFZA), FOB Jebel Ali, CFR, and CIF to all major Middle Eastern, African, and European ports."
+        },
+        {
+          "question": "What is your typical turnaround time for stock materials?",
+          "answer": "In-stock materials can be inspected and loaded within 24 to 48 hours of purchase order receipt."
+        }
+      ]
+    },
+    "contact": {
+      "header": {
+        "title": "Contact Technical Commercial Desk",
+        "subtitle": "Engage directly with our JAFZA engineering and procurement team."
+      },
+      "inquiryBoxTitle": "Submit Request For Quotation (RFQ)",
+      "inquiryBoxSubtitle": "Attach your specification list or item codes. Our sales desk responds within 4 business hours.",
+      "directSupportHours": "Monday – Friday: 08:00 – 17:30 GST",
+      "locationNote": "Visitors to JAFZA facility require advance gate pass issuance. Please email passport copy 24 hours in advance."
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "fulg | Home",
+      "description": "Apex Industrial Supplies FZE is a leading UAE distributor of API line pipes, structural steel, flanges, and valves in Jebel Ali Free Zone."
+    },
+    "about": {
+      "title": "fulg | About",
+      "description": "Learn about Apex Industrial Supplies corporate history, JAFZA yard capabilities, and material quality assurance procedures."
+    },
+    "services": {
+      "title": "fulg | Services",
+      "description": "Browse our complete catalog of certified carbon steel pipes, structural beams, and industrial valves with ASTM/API compliance."
+    },
+    "contact": {
+      "title": "fulg | Contact",
+      "description": "Contact our JAFZA procurement team. Call +971 4 881 7290 or request a formal commercial quotation online."
+    }
+  },
+  "customSections": [],
+  "builder": {
+    "version": 1,
+    "globals": {
+      "siteName": "fulg",
+      "logoUrl": "",
+      "colors": {
+        "primary": "#0e7490",
+        "secondary": "#082f49",
+        "accent": "#f97316",
+        "text": "#1e293b",
+        "muted": "#64748b",
+        "background": "#ffffff",
+        "surface": "#f4f6fa"
+      },
+      "fonts": {
+        "heading": "Plus Jakarta Sans",
+        "body": "Inter"
+      },
+      "baseFontSize": 16,
+      "containerWidth": 1200,
+      "buttonRadius": 6
+    },
+    "header": [
+      {
+        "id": "nj5a9hav864u",
+        "type": "section",
+        "settings": {
+          "layout": "boxed",
+          "gap": 10,
+          "bgType": "color",
+          "bgColor": "var(--dlb-secondary)",
+          "_padding": {
+            "top": 6,
+            "right": 0,
+            "bottom": 6,
+            "left": 0,
+            "unit": "px"
+          },
+          "_hideMobile": true,
+          "verticalAlign": "center"
+        },
+        "children": [
+          {
+            "id": "nj5a8ox5ftzc",
+            "type": "column",
+            "settings": {
+              "width": 60,
+              "verticalAlign": "center"
+            },
+            "children": [
+              {
+                "id": "nj5a8l5u8w8u",
+                "type": "icon-list",
+                "settings": {
+                  "layout": "inline",
+                  "items": [
+                    {
+                      "id": "ij5a82ljcz8m",
+                      "text": "asd",
+                      "icon": "phone",
+                      "link": "tel:asd"
+                    },
+                    {
+                      "id": "ij5a82muv1ls",
+                      "text": "as@mail.com",
+                      "icon": "mail",
+                      "link": "mailto:as@mail.com"
+                    }
+                  ],
+                  "iconColor": "var(--dlb-accent)",
+                  "iconSize": 14,
+                  "textColor": "#e2e8f0",
+                  "textFontSize": 13
+                }
+              }
+            ]
+          },
+          {
+            "id": "nj5a9ubfrzj8",
+            "type": "column",
+            "settings": {
+              "width": 40,
+              "verticalAlign": "center"
+            },
+            "children": [
+              {
+                "id": "nj5a95br1eii",
+                "type": "social-icons",
+                "settings": {
+                  "shape": "circle",
+                  "colorMode": "custom",
+                  "size": 14,
+                  "items": [
+                    {
+                      "id": "sj5a9s8boksi",
+                      "network": "facebook",
+                      "url": "https://facebook.com/"
+                    },
+                    {
+                      "id": "sj5a99kbecg5",
+                      "network": "instagram",
+                      "url": "https://instagram.com/"
+                    },
+                    {
+                      "id": "sj5a9y3uqac5",
+                      "network": "linkedin",
+                      "url": "https://linkedin.com/"
+                    }
+                  ],
+                  "align": "right",
+                  "iconColor": "#e2e8f0",
+                  "bgColor": "rgba(255,255,255,0.08)"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nj5a9iy5f86r",
+        "type": "section",
+        "settings": {
+          "layout": "boxed",
+          "gap": 20,
+          "bgType": "color",
+          "bgColor": "#ffffff",
+          "_padding": {
+            "top": 12,
+            "right": 0,
+            "bottom": 12,
+            "left": 0,
+            "unit": "px"
+          },
+          "sticky": true,
+          "_shadow": "sm",
+          "verticalAlign": "center",
+          "htmlTag": "header"
+        },
+        "children": [
+          {
+            "id": "nj5a9q1mnafl",
+            "type": "column",
+            "settings": {
+              "width": 24,
+              "width_tablet": 50,
+              "width_mobile": 60,
+              "verticalAlign": "center"
+            },
+            "children": [
+              {
+                "id": "nj5a9e99c7by",
+                "type": "site-logo",
+                "settings": {
+                  "width": 150,
+                  "align": "left"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nj5a9bw6zu8q",
+            "type": "column",
+            "settings": {
+              "width": 56,
+              "width_tablet": 50,
+              "width_mobile": 40,
+              "verticalAlign": "center"
+            },
+            "children": [
+              {
+                "id": "nj5a99j8amu4",
+                "type": "nav-menu",
+                "settings": {
+                  "source": "pages",
+                  "align": "right",
+                  "breakpoint": "tablet",
+                  "items": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "nj5a9921fg8h",
+            "type": "column",
+            "settings": {
+              "width": 20,
+              "verticalAlign": "center",
+              "_hideTablet": true,
+              "_hideMobile": true
+            },
+            "children": [
+              {
+                "id": "nj5a9aowni16",
+                "type": "button",
+                "settings": {
+                  "text": "Get a quote",
+                  "link": "/contact",
+                  "variant": "solid",
+                  "size": "sm",
+                  "align": "right",
+                  "iconPosition": "after"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "footer": [
+      {
+        "id": "nj5aa3p1zbt3",
+        "type": "section",
+        "settings": {
+          "layout": "boxed",
+          "gap": 30,
+          "bgType": "color",
+          "bgColor": "var(--dlb-secondary)",
+          "textColor": "#cbd5e1",
+          "_padding": {
+            "top": 72,
+            "right": 0,
+            "bottom": 48,
+            "left": 0,
+            "unit": "px"
+          },
+          "htmlTag": "footer"
+        },
+        "children": [
+          {
+            "id": "nj5a9rph8yfr",
+            "type": "column",
+            "settings": {
+              "width": 34,
+              "width_tablet": 50
+            },
+            "children": [
+              {
+                "id": "nj5a9dcyud4i",
+                "type": "site-title",
+                "settings": {
+                  "align": "left",
+                  "color": "#ffffff"
+                }
+              },
+              {
+                "id": "nj5a9i3biblf",
+                "type": "text",
+                "settings": {
+                  "html": "<p>fulg delivers dependable service to businesses across the United Arab Emirates.</p>",
+                  "color": "#94a3b8"
+                }
+              },
+              {
+                "id": "nj5a9e2od0ux",
+                "type": "social-icons",
+                "settings": {
+                  "shape": "circle",
+                  "colorMode": "custom",
+                  "size": 16,
+                  "items": [
+                    {
+                      "id": "sj5a9lealf0d",
+                      "network": "facebook",
+                      "url": "https://facebook.com/"
+                    },
+                    {
+                      "id": "sj5a9c14ts8s",
+                      "network": "instagram",
+                      "url": "https://instagram.com/"
+                    },
+                    {
+                      "id": "sj5a96zka442",
+                      "network": "linkedin",
+                      "url": "https://linkedin.com/"
+                    }
+                  ],
+                  "iconColor": "#ffffff",
+                  "bgColor": "rgba(255,255,255,0.1)"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nj5aao65b6sh",
+            "type": "column",
+            "settings": {
+              "width": 22,
+              "width_tablet": 50
+            },
+            "children": [
+              {
+                "id": "nj5aavcsavmt",
+                "type": "heading",
+                "settings": {
+                  "title": "Quick links",
+                  "tag": "h4",
+                  "color": "#ffffff",
+                  "titleFontSize": 17
+                }
+              },
+              {
+                "id": "nj5aaa7x77wr",
+                "type": "icon-list",
+                "settings": {
+                  "layout": "vertical",
+                  "items": [
+                    {
+                      "id": "ij5aa0fezjxz",
+                      "text": "Home",
+                      "icon": "chevron-right",
+                      "link": "/"
+                    },
+                    {
+                      "id": "ij5aamj3vbf0",
+                      "text": "About",
+                      "icon": "chevron-right",
+                      "link": "/about"
+                    },
+                    {
+                      "id": "ij5aa361u94t",
+                      "text": "Services",
+                      "icon": "chevron-right",
+                      "link": "/services"
+                    },
+                    {
+                      "id": "ij5aat9zcbcf",
+                      "text": "Contact",
+                      "icon": "chevron-right",
+                      "link": "/contact"
+                    }
+                  ],
+                  "iconColor": "var(--dlb-accent)",
+                  "iconSize": 14,
+                  "textColor": "#cbd5e1"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nj5aazh4v32m",
+            "type": "column",
+            "settings": {
+              "width": 22,
+              "width_tablet": 50
+            },
+            "children": [
+              {
+                "id": "nj5aa2qalo11",
+                "type": "heading",
+                "settings": {
+                  "title": "Contact",
+                  "tag": "h4",
+                  "color": "#ffffff",
+                  "titleFontSize": 17
+                }
+              },
+              {
+                "id": "nj5aaikwshuc",
+                "type": "icon-list",
+                "settings": {
+                  "layout": "vertical",
+                  "items": [
+                    {
+                      "id": "ij5aay77i5gc",
+                      "text": "asd",
+                      "icon": "phone",
+                      "link": "tel:asd"
+                    },
+                    {
+                      "id": "ij5aa1h0m2ux",
+                      "text": "as@mail.com",
+                      "icon": "mail",
+                      "link": "mailto:as@mail.com"
+                    },
+                    {
+                      "id": "ij5aaajqsmej",
+                      "text": "asd",
+                      "icon": "map-pin",
+                      "link": ""
+                    }
+                  ],
+                  "iconColor": "var(--dlb-accent)",
+                  "iconSize": 15,
+                  "textColor": "#cbd5e1"
+                }
+              }
+            ]
+          },
+          {
+            "id": "nj5aaquyixtc",
+            "type": "column",
+            "settings": {
+              "width": 22,
+              "width_tablet": 50
+            },
+            "children": [
+              {
+                "id": "nj5aafkzgte2",
+                "type": "heading",
+                "settings": {
+                  "title": "Working hours",
+                  "tag": "h4",
+                  "color": "#ffffff",
+                  "titleFontSize": 17
+                }
+              },
+              {
+                "id": "nj5aamztp3d6",
+                "type": "text",
+                "settings": {
+                  "html": "<p>Sunday – Thursday<br />9:00 – 18:00</p>",
+                  "color": "#cbd5e1"
+                }
+              },
+              {
+                "id": "nj5aal0tfqb5",
+                "type": "button",
+                "settings": {
+                  "text": "Contact us",
+                  "link": "/contact",
+                  "variant": "light",
+                  "size": "sm",
+                  "align": "left",
+                  "iconPosition": "after",
+                  "_width": "auto"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nj5aacuv4lov",
+        "type": "section",
+        "settings": {
+          "layout": "boxed",
+          "gap": 10,
+          "bgType": "color",
+          "bgColor": "#020617",
+          "_padding": {
+            "top": 16,
+            "right": 0,
+            "bottom": 16,
+            "left": 0,
+            "unit": "px"
+          }
+        },
+        "children": [
+          {
+            "id": "nj5aaqjqq12c",
+            "type": "column",
+            "settings": {
+              "width": 60,
+              "verticalAlign": "center"
+            },
+            "children": [
+              {
+                "id": "nj5aadbfrls0",
+                "type": "text",
+                "settings": {
+                  "html": "<p>© 2026 fulg. All rights reserved.</p>",
+                  "color": "#94a3b8",
+                  "textFontSize": 14
+                }
+              }
+            ]
+          },
+          {
+            "id": "nj5aaxngn0za",
+            "type": "column",
+            "settings": {
+              "width": 40,
+              "verticalAlign": "center"
+            },
+            "children": [
+              {
+                "id": "nj5aaoetngp8",
+                "type": "text",
+                "settings": {
+                  "html": "<p>Registered in the United Arab Emirates</p>",
+                  "color": "#94a3b8",
+                  "textFontSize": 14,
+                  "align": "right",
+                  "align_mobile": "left"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "id": "pj5a37d1g707",
+        "title": "Home",
+        "slug": "home",
+        "isHome": true,
+        "showInNav": true,
+        "seo": {
+          "title": "fulg | Home",
+          "description": "",
+          "ogImage": ""
+        },
+        "sections": [
+          {
+            "id": "nj59xbwto5gh",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "heightMode": "min",
+              "minHeight": 660,
+              "minHeight_tablet": 560,
+              "minHeight_mobile": 520,
+              "verticalAlign": "center",
+              "bgType": "image",
+              "bgImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1920&auto=format&fit=crop&q=70",
+              "bgColor": "#0f172a",
+              "overlayColor": "#0b1220",
+              "overlayOpacity": 0.62,
+              "textColor": "#ffffff",
+              "_padding": {
+                "top": 80,
+                "right": 0,
+                "bottom": 80,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj59xoxwzetg",
+                "type": "column",
+                "settings": {
+                  "width": 100
+                },
+                "children": [
+                  {
+                    "id": "nj59xattmqg4",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Trusted across the UAE",
+                      "tag": "div",
+                      "color": "var(--dlb-accent)",
+                      "titleFontSize": 14,
+                      "titleFontWeight": "700",
+                      "titleTransform": "uppercase",
+                      "titleLetterSpacing": 1.5
+                    }
+                  },
+                  {
+                    "id": "nj59xo1s1yqg",
+                    "type": "heading",
+                    "settings": {
+                      "title": "fulg — dependable partners for growing businesses",
+                      "tag": "h1",
+                      "color": "#ffffff",
+                      "titleFontSize": 58,
+                      "titleFontSize_tablet": 46,
+                      "titleFontSize_mobile": 36,
+                      "titleFontWeight": "800",
+                      "titleLineHeight": 1.1,
+                      "maxWidth": 820
+                    }
+                  },
+                  {
+                    "id": "nj59xnfbay2m",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>From first consultation to final delivery, we help companies across the Emirates move faster with less risk.</p>",
+                      "color": "#e2e8f0",
+                      "textFontSize": 19,
+                      "textFontSize_mobile": 17,
+                      "maxWidth": 640,
+                      "_margin": {
+                        "top": 0,
+                        "right": 0,
+                        "bottom": 12,
+                        "left": 0,
+                        "unit": "px"
+                      }
+                    }
+                  },
+                  {
+                    "id": "nj59xge2desa",
+                    "type": "button",
+                    "settings": {
+                      "text": "Request a quote",
+                      "link": "/contact",
+                      "size": "lg",
+                      "align": "left",
+                      "iconPosition": "after",
+                      "_width": "auto",
+                      "icon": "arrow-right"
+                    }
+                  },
+                  {
+                    "id": "nj59xa1ar8jk",
+                    "type": "button",
+                    "settings": {
+                      "text": "Our services",
+                      "link": "/services",
+                      "variant": "outline",
+                      "size": "lg",
+                      "align": "left",
+                      "iconPosition": "after",
+                      "textColor": "#ffffff",
+                      "borderColor": "#ffffff",
+                      "_width": "auto"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj59zn6cp6ug",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "bgType": "color",
+              "bgColor": "var(--dlb-surface)",
+              "_padding": {
+                "top": 56,
+                "right": 0,
+                "bottom": 56,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj59yd5cfa4x",
+                "type": "column",
+                "settings": {
+                  "width": 25,
+                  "width_tablet": 50,
+                  "width_mobile": 50
+                },
+                "children": [
+                  {
+                    "id": "nj59yxbddrgi",
+                    "type": "counter",
+                    "settings": {
+                      "start": 0,
+                      "end": 15,
+                      "suffix": "+",
+                      "title": "Years in business",
+                      "duration": 2000,
+                      "separator": false,
+                      "align": "center",
+                      "prefix": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj59y9m8qkqi",
+                "type": "column",
+                "settings": {
+                  "width": 25,
+                  "width_tablet": 50,
+                  "width_mobile": 50
+                },
+                "children": [
+                  {
+                    "id": "nj59ya9ofria",
+                    "type": "counter",
+                    "settings": {
+                      "start": 0,
+                      "end": 1200,
+                      "suffix": "+",
+                      "title": "Projects delivered",
+                      "duration": 2000,
+                      "separator": true,
+                      "align": "center",
+                      "prefix": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj59zep9r6dc",
+                "type": "column",
+                "settings": {
+                  "width": 25,
+                  "width_tablet": 50,
+                  "width_mobile": 50
+                },
+                "children": [
+                  {
+                    "id": "nj59zju8hion",
+                    "type": "counter",
+                    "settings": {
+                      "start": 0,
+                      "end": 350,
+                      "suffix": "+",
+                      "title": "Corporate clients",
+                      "duration": 2000,
+                      "separator": false,
+                      "align": "center",
+                      "prefix": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj59zz8g1rpf",
+                "type": "column",
+                "settings": {
+                  "width": 25,
+                  "width_tablet": 50,
+                  "width_mobile": 50
+                },
+                "children": [
+                  {
+                    "id": "nj59znt8d3mo",
+                    "type": "counter",
+                    "settings": {
+                      "start": 0,
+                      "end": 98,
+                      "suffix": "%",
+                      "title": "Client retention",
+                      "duration": 2000,
+                      "separator": false,
+                      "align": "center",
+                      "prefix": ""
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj59zfmzzq7h",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "_padding": {
+                "top": 96,
+                "right": 0,
+                "bottom": 24,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj59z721blbq",
+                "type": "column",
+                "settings": {
+                  "width": 100
+                },
+                "children": [
+                  {
+                    "id": "nj59zm4gxrxm",
+                    "type": "heading",
+                    "settings": {
+                      "title": "What we do",
+                      "tag": "div",
+                      "align": "center",
+                      "color": "var(--dlb-primary)",
+                      "titleFontSize": 13,
+                      "titleFontWeight": "700",
+                      "titleTransform": "uppercase",
+                      "titleLetterSpacing": 1.5
+                    }
+                  },
+                  {
+                    "id": "nj59zrfm9841",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Services built around your business",
+                      "tag": "h2",
+                      "align": "center",
+                      "titleFontSize": 40,
+                      "titleFontSize_mobile": 30,
+                      "color": ""
+                    }
+                  },
+                  {
+                    "id": "nj59zqmf4xeg",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>Practical solutions delivered by a senior team that knows the regional market.</p>",
+                      "align": "center",
+                      "color": "var(--dlb-muted)",
+                      "maxWidth": 720
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a1n474g6k",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "_padding": {
+                "top": 0,
+                "right": 0,
+                "bottom": 96,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a0wkwj7vt",
+                "type": "column",
+                "settings": {
+                  "width": 33.33,
+                  "width_tablet": 33.333333333333336
+                },
+                "children": [
+                  {
+                    "id": "nj5a0agknv7w",
+                    "type": "icon-box",
+                    "settings": {
+                      "icon": "compass",
+                      "title": "Consulting & planning",
+                      "description": "We scope every engagement around measurable outcomes and a clear timeline.",
+                      "position": "top",
+                      "titleTag": "h3",
+                      "align": "left",
+                      "view": "stacked",
+                      "shape": "rounded",
+                      "iconSize": 28,
+                      "iconPadding": 16,
+                      "iconColor": "var(--dlb-primary)",
+                      "iconBg": "#e8eefc",
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a03ixngcr",
+                "type": "column",
+                "settings": {
+                  "width": 33.33,
+                  "width_tablet": 33.333333333333336
+                },
+                "children": [
+                  {
+                    "id": "nj5a0g2iwf5q",
+                    "type": "icon-box",
+                    "settings": {
+                      "icon": "rocket",
+                      "title": "Delivery & execution",
+                      "description": "Dedicated project leads keep work on schedule and on budget from day one.",
+                      "position": "top",
+                      "titleTag": "h3",
+                      "align": "left",
+                      "view": "stacked",
+                      "shape": "rounded",
+                      "iconSize": 28,
+                      "iconPadding": 16,
+                      "iconColor": "var(--dlb-primary)",
+                      "iconBg": "#e8eefc",
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a0oo3h3su",
+                "type": "column",
+                "settings": {
+                  "width": 33.33,
+                  "width_tablet": 33.333333333333336
+                },
+                "children": [
+                  {
+                    "id": "nj5a01e94c0o",
+                    "type": "icon-box",
+                    "settings": {
+                      "icon": "headphones",
+                      "title": "Support & aftercare",
+                      "description": "Responsive support and documented handover so nothing is left to chance.",
+                      "position": "top",
+                      "titleTag": "h3",
+                      "align": "left",
+                      "view": "stacked",
+                      "shape": "rounded",
+                      "iconSize": 28,
+                      "iconPadding": 16,
+                      "iconColor": "var(--dlb-primary)",
+                      "iconBg": "#e8eefc",
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a1aqiqmir",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 40,
+              "_padding": {
+                "top": 96,
+                "right": 0,
+                "bottom": 96,
+                "left": 0,
+                "unit": "px"
+              },
+              "verticalAlign": "center"
+            },
+            "children": [
+              {
+                "id": "nj5a1n3ts2y5",
+                "type": "column",
+                "settings": {
+                  "width": 50
+                },
+                "children": [
+                  {
+                    "id": "nj5a1vs39qer",
+                    "type": "image",
+                    "settings": {
+                      "src": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&auto=format&fit=crop&q=70",
+                      "alt": "Why companies choose fulg",
+                      "align": "center",
+                      "width": 100,
+                      "radius": {
+                        "top": 14,
+                        "right": 14,
+                        "bottom": 14,
+                        "left": 14,
+                        "unit": "px"
+                      },
+                      "height": 460,
+                      "height_mobile": 280
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a1ox1rwgi",
+                "type": "column",
+                "settings": {
+                  "width": 50,
+                  "verticalAlign": "center",
+                  "_padding": {
+                    "top": 10,
+                    "right": 10,
+                    "bottom": 10,
+                    "left": 40,
+                    "unit": "px"
+                  },
+                  "_padding_mobile": {
+                    "top": 10,
+                    "right": 10,
+                    "bottom": 10,
+                    "left": 10,
+                    "unit": "px"
+                  }
+                },
+                "children": [
+                  {
+                    "id": "nj5a15qi3xq7",
+                    "type": "heading",
+                    "settings": {
+                      "title": "About us",
+                      "tag": "div",
+                      "color": "var(--dlb-primary)",
+                      "titleFontSize": 13,
+                      "titleFontWeight": "700",
+                      "titleTransform": "uppercase",
+                      "titleLetterSpacing": 1.5
+                    }
+                  },
+                  {
+                    "id": "nj5a1prs2epg",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Why companies choose fulg",
+                      "tag": "h2",
+                      "titleFontSize": 38,
+                      "titleFontSize_mobile": 30
+                    }
+                  },
+                  {
+                    "id": "nj5a1v74wz08",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>We combine local expertise with international standards. Every client gets a dedicated contact, honest advice and work that is delivered on time.</p>",
+                      "color": "var(--dlb-muted)"
+                    }
+                  },
+                  {
+                    "id": "nj5a17uvyuse",
+                    "type": "icon-list",
+                    "settings": {
+                      "layout": "vertical",
+                      "items": [
+                        {
+                          "id": "ij5a1agrz66d",
+                          "text": "Licensed and registered in the UAE",
+                          "icon": "check-circle",
+                          "link": ""
+                        },
+                        {
+                          "id": "ij5a1s7jrbwx",
+                          "text": "Senior team on every account",
+                          "icon": "check-circle",
+                          "link": ""
+                        },
+                        {
+                          "id": "ij5a1goiyebc",
+                          "text": "Transparent reporting at every milestone",
+                          "icon": "check-circle",
+                          "link": ""
+                        }
+                      ],
+                      "iconColor": "var(--dlb-primary)"
+                    }
+                  },
+                  {
+                    "id": "nj5a1sw0so3j",
+                    "type": "button",
+                    "settings": {
+                      "text": "More about us",
+                      "link": "/about",
+                      "variant": "solid",
+                      "size": "md",
+                      "align": "left",
+                      "iconPosition": "after",
+                      "_width": "auto"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a2cdck69b",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "bgType": "color",
+              "bgColor": "var(--dlb-surface)",
+              "_padding": {
+                "top": 96,
+                "right": 0,
+                "bottom": 16,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a2fn6ka7z",
+                "type": "column",
+                "settings": {
+                  "width": 100
+                },
+                "children": [
+                  {
+                    "id": "nj5a2f0hn620",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Testimonials",
+                      "tag": "div",
+                      "align": "center",
+                      "color": "var(--dlb-primary)",
+                      "titleFontSize": 13,
+                      "titleFontWeight": "700",
+                      "titleTransform": "uppercase",
+                      "titleLetterSpacing": 1.5
+                    }
+                  },
+                  {
+                    "id": "nj5a2zitx9ve",
+                    "type": "heading",
+                    "settings": {
+                      "title": "What our clients say",
+                      "tag": "h2",
+                      "align": "center",
+                      "titleFontSize": 40,
+                      "titleFontSize_mobile": 30,
+                      "color": ""
+                    }
+                  },
+                  {
+                    "id": "nj5a2r9z9utp",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>Long-term relationships built on delivery, not promises.</p>",
+                      "align": "center",
+                      "color": "var(--dlb-muted)",
+                      "maxWidth": 720
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a2mqakaj2",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "bgType": "color",
+              "bgColor": "var(--dlb-surface)",
+              "_padding": {
+                "top": 0,
+                "right": 0,
+                "bottom": 96,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a2vuvg3tq",
+                "type": "column",
+                "settings": {
+                  "width": 33.33
+                },
+                "children": [
+                  {
+                    "id": "nj5a2rkiwssp",
+                    "type": "testimonial",
+                    "settings": {
+                      "content": "Clear communication, realistic timelines and work delivered exactly as promised. We have renewed for a third year.",
+                      "name": "Omar Haddad",
+                      "job": "Procurement Lead, Gulf Logistics",
+                      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=70",
+                      "align": "left",
+                      "showQuote": true,
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a29e5i73q",
+                "type": "column",
+                "settings": {
+                  "width": 33.33
+                },
+                "children": [
+                  {
+                    "id": "nj5a266ug5c4",
+                    "type": "testimonial",
+                    "settings": {
+                      "content": "They took the time to understand our business before proposing anything. The results speak for themselves.",
+                      "name": "Priya Nair",
+                      "job": "Managing Director, Crescent Foods",
+                      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&auto=format&fit=crop&q=70",
+                      "align": "left",
+                      "showQuote": true,
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a2vt3qvk1",
+                "type": "column",
+                "settings": {
+                  "width": 33.33
+                },
+                "children": [
+                  {
+                    "id": "nj5a2lrr6tt5",
+                    "type": "testimonial",
+                    "settings": {
+                      "content": "Responsive, professional and easy to work with. Our go-to partner for every new project in the region.",
+                      "name": "James Whitfield",
+                      "job": "COO, Harbour Engineering",
+                      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=70",
+                      "align": "left",
+                      "showQuote": true,
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a3jsxppae",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "bgType": "gradient",
+              "gradientFrom": "var(--dlb-primary)",
+              "gradientTo": "var(--dlb-secondary)",
+              "gradientAngle": 120,
+              "textColor": "#ffffff",
+              "_padding": {
+                "top": 72,
+                "right": 0,
+                "bottom": 72,
+                "left": 0,
+                "unit": "px"
+              },
+              "verticalAlign": "center"
+            },
+            "children": [
+              {
+                "id": "nj5a3hziq4ro",
+                "type": "column",
+                "settings": {
+                  "width": 66.67,
+                  "verticalAlign": "center"
+                },
+                "children": [
+                  {
+                    "id": "nj5a3txaqu3i",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Ready to discuss your next project?",
+                      "tag": "h2",
+                      "color": "#ffffff",
+                      "titleFontSize": 36,
+                      "titleFontSize_mobile": 28
+                    }
+                  },
+                  {
+                    "id": "nj5a3i2e0306",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>Speak with our team today — we reply to every enquiry within one business day.</p>",
+                      "color": "#dbeafe"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a3cxog9w9",
+                "type": "column",
+                "settings": {
+                  "width": 33.33,
+                  "verticalAlign": "center"
+                },
+                "children": [
+                  {
+                    "id": "nj5a33y1mt56",
+                    "type": "button",
+                    "settings": {
+                      "text": "Get in touch",
+                      "link": "/contact",
+                      "variant": "light",
+                      "size": "lg",
+                      "align": "right",
+                      "iconPosition": "after",
+                      "align_mobile": "left"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pj5a5nbii5t7",
+        "title": "About",
+        "slug": "about",
+        "isHome": false,
+        "showInNav": true,
+        "seo": {
+          "title": "About | fulg",
+          "description": "",
+          "ogImage": ""
+        },
+        "sections": [
+          {
+            "id": "nj5a3osfnzhq",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "bgType": "image",
+              "bgImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1920&auto=format&fit=crop&q=70",
+              "bgColor": "#0f172a",
+              "overlayColor": "#0b1220",
+              "overlayOpacity": 0.72,
+              "textColor": "#ffffff",
+              "_padding": {
+                "top": 120,
+                "right": 0,
+                "bottom": 100,
+                "left": 0,
+                "unit": "px"
+              },
+              "_padding_mobile": {
+                "top": 80,
+                "right": 0,
+                "bottom": 64,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a3t83i1xe",
+                "type": "column",
+                "settings": {
+                  "width": 100,
+                  "horizontalAlign": "center"
+                },
+                "children": [
+                  {
+                    "id": "nj5a344sl0xr",
+                    "type": "heading",
+                    "settings": {
+                      "title": "About fulg",
+                      "tag": "h1",
+                      "align": "center",
+                      "color": "#ffffff",
+                      "titleFontSize": 52,
+                      "titleFontSize_mobile": 36
+                    }
+                  },
+                  {
+                    "id": "nj5a324p6xzh",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>Our story, our values and the people behind the work.</p>",
+                      "align": "center",
+                      "color": "#cbd5e1",
+                      "textFontSize": 18,
+                      "maxWidth": 680
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a4bdf1bzz",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "_padding": {
+                "top": 96,
+                "right": 0,
+                "bottom": 96,
+                "left": 0,
+                "unit": "px"
+              },
+              "verticalAlign": "center"
+            },
+            "children": [
+              {
+                "id": "nj5a437szc9y",
+                "type": "column",
+                "settings": {
+                  "width": 55,
+                  "verticalAlign": "center",
+                  "_padding": {
+                    "top": 10,
+                    "right": 40,
+                    "bottom": 10,
+                    "left": 10,
+                    "unit": "px"
+                  },
+                  "_padding_mobile": {
+                    "top": 10,
+                    "right": 10,
+                    "bottom": 10,
+                    "left": 10,
+                    "unit": "px"
+                  }
+                },
+                "children": [
+                  {
+                    "id": "nj5a31j7b6m2",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Built on trust, driven by results",
+                      "tag": "h2",
+                      "titleFontSize": 38,
+                      "titleFontSize_mobile": 30
+                    }
+                  },
+                  {
+                    "id": "nj5a4b8636dq",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>fulg was founded to give businesses in the region a partner they can rely on. What started as a small team has grown into a trusted name across the Emirates.</p><p>Today we combine that founding focus on service with the experience of hundreds of completed projects.</p>",
+                      "color": "var(--dlb-muted)"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a49zi6xgy",
+                "type": "column",
+                "settings": {
+                  "width": 45
+                },
+                "children": [
+                  {
+                    "id": "nj5a4gp9yqo4",
+                    "type": "image",
+                    "settings": {
+                      "src": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&auto=format&fit=crop&q=70",
+                      "alt": "Our team",
+                      "align": "center",
+                      "width": 100,
+                      "radius": {
+                        "top": 14,
+                        "right": 14,
+                        "bottom": 14,
+                        "left": 14,
+                        "unit": "px"
+                      },
+                      "height": 440,
+                      "height_mobile": 260
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a419f6dl5",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "bgType": "color",
+              "bgColor": "var(--dlb-surface)",
+              "_padding": {
+                "top": 80,
+                "right": 0,
+                "bottom": 80,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a4ax6blyw",
+                "type": "column",
+                "settings": {
+                  "width": 33.33
+                },
+                "children": [
+                  {
+                    "id": "nj5a4eb8wfv4",
+                    "type": "icon-box",
+                    "settings": {
+                      "icon": "target",
+                      "title": "Our mission",
+                      "description": "Deliver dependable, high-quality service that helps our clients grow with confidence.",
+                      "position": "top",
+                      "titleTag": "h3",
+                      "align": "left",
+                      "view": "stacked",
+                      "shape": "rounded",
+                      "iconSize": 28,
+                      "iconPadding": 16,
+                      "iconBg": "#e8eefc",
+                      "iconColor": "var(--dlb-primary)",
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a4h3r5ne7",
+                "type": "column",
+                "settings": {
+                  "width": 33.33
+                },
+                "children": [
+                  {
+                    "id": "nj5a4vgv5c1u",
+                    "type": "icon-box",
+                    "settings": {
+                      "icon": "compass",
+                      "title": "Our vision",
+                      "description": "To be the most trusted partner for businesses across the GCC.",
+                      "position": "top",
+                      "titleTag": "h3",
+                      "align": "left",
+                      "view": "stacked",
+                      "shape": "rounded",
+                      "iconSize": 28,
+                      "iconPadding": 16,
+                      "iconBg": "#e8eefc",
+                      "iconColor": "var(--dlb-primary)",
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a4359zwi0",
+                "type": "column",
+                "settings": {
+                  "width": 33.33
+                },
+                "children": [
+                  {
+                    "id": "nj5a4yd0q1uy",
+                    "type": "icon-box",
+                    "settings": {
+                      "icon": "heart",
+                      "title": "Our values",
+                      "description": "Integrity, accountability and long-term relationships over quick wins.",
+                      "position": "top",
+                      "titleTag": "h3",
+                      "align": "left",
+                      "view": "stacked",
+                      "shape": "rounded",
+                      "iconSize": 28,
+                      "iconPadding": 16,
+                      "iconBg": "#e8eefc",
+                      "iconColor": "var(--dlb-primary)",
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a4c63z6b3",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "_padding": {
+                "top": 96,
+                "right": 0,
+                "bottom": 24,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a48b9a1p4",
+                "type": "column",
+                "settings": {
+                  "width": 100
+                },
+                "children": [
+                  {
+                    "id": "nj5a4su67dck",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Our difference",
+                      "tag": "div",
+                      "align": "center",
+                      "color": "var(--dlb-primary)",
+                      "titleFontSize": 13,
+                      "titleFontWeight": "700",
+                      "titleTransform": "uppercase",
+                      "titleLetterSpacing": 1.5
+                    }
+                  },
+                  {
+                    "id": "nj5a4moc4knz",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Why choose us",
+                      "tag": "h2",
+                      "align": "center",
+                      "titleFontSize": 40,
+                      "titleFontSize_mobile": 30,
+                      "color": ""
+                    }
+                  },
+                  {
+                    "id": "nj5a4jks16bt",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>The standards every client can expect from our team.</p>",
+                      "align": "center",
+                      "color": "var(--dlb-muted)",
+                      "maxWidth": 720
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a4vswmtxr",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "_padding": {
+                "top": 0,
+                "right": 0,
+                "bottom": 96,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a4aba7huv",
+                "type": "column",
+                "settings": {
+                  "width": 33.33,
+                  "width_tablet": 33.333333333333336
+                },
+                "children": [
+                  {
+                    "id": "nj5a4z0x7u9e",
+                    "type": "icon-box",
+                    "settings": {
+                      "icon": "compass",
+                      "title": "Consulting & planning",
+                      "description": "We scope every engagement around measurable outcomes and a clear timeline.",
+                      "position": "top",
+                      "titleTag": "h3",
+                      "align": "left",
+                      "view": "stacked",
+                      "shape": "rounded",
+                      "iconSize": 28,
+                      "iconPadding": 16,
+                      "iconColor": "var(--dlb-primary)",
+                      "iconBg": "#e8eefc",
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a4dznz1rw",
+                "type": "column",
+                "settings": {
+                  "width": 33.33,
+                  "width_tablet": 33.333333333333336
+                },
+                "children": [
+                  {
+                    "id": "nj5a41nkp88r",
+                    "type": "icon-box",
+                    "settings": {
+                      "icon": "rocket",
+                      "title": "Delivery & execution",
+                      "description": "Dedicated project leads keep work on schedule and on budget from day one.",
+                      "position": "top",
+                      "titleTag": "h3",
+                      "align": "left",
+                      "view": "stacked",
+                      "shape": "rounded",
+                      "iconSize": 28,
+                      "iconPadding": 16,
+                      "iconColor": "var(--dlb-primary)",
+                      "iconBg": "#e8eefc",
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a435im4d6",
+                "type": "column",
+                "settings": {
+                  "width": 33.33,
+                  "width_tablet": 33.333333333333336
+                },
+                "children": [
+                  {
+                    "id": "nj5a4iwp1ku1",
+                    "type": "icon-box",
+                    "settings": {
+                      "icon": "headphones",
+                      "title": "Support & aftercare",
+                      "description": "Responsive support and documented handover so nothing is left to chance.",
+                      "position": "top",
+                      "titleTag": "h3",
+                      "align": "left",
+                      "view": "stacked",
+                      "shape": "rounded",
+                      "iconSize": 28,
+                      "iconPadding": 16,
+                      "iconColor": "var(--dlb-primary)",
+                      "iconBg": "#e8eefc",
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a5bpzpdwz",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "bgType": "color",
+              "bgColor": "var(--dlb-surface)",
+              "_padding": {
+                "top": 56,
+                "right": 0,
+                "bottom": 56,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a5sed3car",
+                "type": "column",
+                "settings": {
+                  "width": 25,
+                  "width_tablet": 50,
+                  "width_mobile": 50
+                },
+                "children": [
+                  {
+                    "id": "nj5a5fb1514h",
+                    "type": "counter",
+                    "settings": {
+                      "start": 0,
+                      "end": 15,
+                      "suffix": "+",
+                      "title": "Years in business",
+                      "duration": 2000,
+                      "separator": false,
+                      "align": "center",
+                      "prefix": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a57rplvfc",
+                "type": "column",
+                "settings": {
+                  "width": 25,
+                  "width_tablet": 50,
+                  "width_mobile": 50
+                },
+                "children": [
+                  {
+                    "id": "nj5a5xuqa4af",
+                    "type": "counter",
+                    "settings": {
+                      "start": 0,
+                      "end": 1200,
+                      "suffix": "+",
+                      "title": "Projects delivered",
+                      "duration": 2000,
+                      "separator": true,
+                      "align": "center",
+                      "prefix": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a5gvu725h",
+                "type": "column",
+                "settings": {
+                  "width": 25,
+                  "width_tablet": 50,
+                  "width_mobile": 50
+                },
+                "children": [
+                  {
+                    "id": "nj5a5m7p1eos",
+                    "type": "counter",
+                    "settings": {
+                      "start": 0,
+                      "end": 350,
+                      "suffix": "+",
+                      "title": "Corporate clients",
+                      "duration": 2000,
+                      "separator": false,
+                      "align": "center",
+                      "prefix": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a5qiwxqr4",
+                "type": "column",
+                "settings": {
+                  "width": 25,
+                  "width_tablet": 50,
+                  "width_mobile": 50
+                },
+                "children": [
+                  {
+                    "id": "nj5a5beeh8kc",
+                    "type": "counter",
+                    "settings": {
+                      "start": 0,
+                      "end": 98,
+                      "suffix": "%",
+                      "title": "Client retention",
+                      "duration": 2000,
+                      "separator": false,
+                      "align": "center",
+                      "prefix": ""
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a5hg09ohu",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "bgType": "gradient",
+              "gradientFrom": "var(--dlb-primary)",
+              "gradientTo": "var(--dlb-secondary)",
+              "gradientAngle": 120,
+              "textColor": "#ffffff",
+              "_padding": {
+                "top": 72,
+                "right": 0,
+                "bottom": 72,
+                "left": 0,
+                "unit": "px"
+              },
+              "verticalAlign": "center"
+            },
+            "children": [
+              {
+                "id": "nj5a5sdxffpi",
+                "type": "column",
+                "settings": {
+                  "width": 66.67,
+                  "verticalAlign": "center"
+                },
+                "children": [
+                  {
+                    "id": "nj5a59v2qyhf",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Let’s work together",
+                      "tag": "h2",
+                      "color": "#ffffff",
+                      "titleFontSize": 36,
+                      "titleFontSize_mobile": 28
+                    }
+                  },
+                  {
+                    "id": "nj5a5sgy7kmv",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>Tell us about your goals and we will show you how we can help.</p>",
+                      "color": "#dbeafe"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a5r1m2lgl",
+                "type": "column",
+                "settings": {
+                  "width": 33.33,
+                  "verticalAlign": "center"
+                },
+                "children": [
+                  {
+                    "id": "nj5a582kpl66",
+                    "type": "button",
+                    "settings": {
+                      "text": "Contact our team",
+                      "link": "/contact",
+                      "variant": "light",
+                      "size": "lg",
+                      "align": "right",
+                      "iconPosition": "after",
+                      "align_mobile": "left"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pj5a63p8jqjl",
+        "title": "Services",
+        "slug": "services",
+        "isHome": false,
+        "showInNav": true,
+        "seo": {
+          "title": "Services | fulg",
+          "description": "",
+          "ogImage": ""
+        },
+        "sections": [
+          {
+            "id": "nj5a5t397cur",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "bgType": "image",
+              "bgImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1920&auto=format&fit=crop&q=70",
+              "bgColor": "#0f172a",
+              "overlayColor": "#0b1220",
+              "overlayOpacity": 0.72,
+              "textColor": "#ffffff",
+              "_padding": {
+                "top": 120,
+                "right": 0,
+                "bottom": 100,
+                "left": 0,
+                "unit": "px"
+              },
+              "_padding_mobile": {
+                "top": 80,
+                "right": 0,
+                "bottom": 64,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a567um5cr",
+                "type": "column",
+                "settings": {
+                  "width": 100,
+                  "horizontalAlign": "center"
+                },
+                "children": [
+                  {
+                    "id": "nj5a5q2p3lgb",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Our services",
+                      "tag": "h1",
+                      "align": "center",
+                      "color": "#ffffff",
+                      "titleFontSize": 52,
+                      "titleFontSize_mobile": 36
+                    }
+                  },
+                  {
+                    "id": "nj5a55d8nwsu",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>Everything we offer, delivered by specialists with years of regional experience.</p>",
+                      "align": "center",
+                      "color": "#cbd5e1",
+                      "textFontSize": 18,
+                      "maxWidth": 680
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a511un4m5",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "_padding": {
+                "top": 96,
+                "right": 0,
+                "bottom": 24,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a5h447o8o",
+                "type": "column",
+                "settings": {
+                  "width": 100
+                },
+                "children": [
+                  {
+                    "id": "nj5a5mw195y7",
+                    "type": "heading",
+                    "settings": {
+                      "title": "What we do",
+                      "tag": "div",
+                      "align": "center",
+                      "color": "var(--dlb-primary)",
+                      "titleFontSize": 13,
+                      "titleFontWeight": "700",
+                      "titleTransform": "uppercase",
+                      "titleLetterSpacing": 1.5
+                    }
+                  },
+                  {
+                    "id": "nj5a5e3i71hq",
+                    "type": "heading",
+                    "settings": {
+                      "title": "What we offer",
+                      "tag": "h2",
+                      "align": "center",
+                      "titleFontSize": 40,
+                      "titleFontSize_mobile": 30,
+                      "color": ""
+                    }
+                  },
+                  {
+                    "id": "nj5a5hua6l4o",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>Explore our core services below, or contact us for a tailored proposal.</p>",
+                      "align": "center",
+                      "color": "var(--dlb-muted)",
+                      "maxWidth": 720
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a5w2sd6w5",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "_padding": {
+                "top": 0,
+                "right": 0,
+                "bottom": 96,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a5siz3oh4",
+                "type": "column",
+                "settings": {
+                  "width": 33.33,
+                  "width_tablet": 33.333333333333336
+                },
+                "children": [
+                  {
+                    "id": "nj5a5c6eo9il",
+                    "type": "icon-box",
+                    "settings": {
+                      "icon": "compass",
+                      "title": "Consulting & planning",
+                      "description": "We scope every engagement around measurable outcomes and a clear timeline.",
+                      "position": "top",
+                      "titleTag": "h3",
+                      "align": "left",
+                      "view": "stacked",
+                      "shape": "rounded",
+                      "iconSize": 28,
+                      "iconPadding": 16,
+                      "iconColor": "var(--dlb-primary)",
+                      "iconBg": "#e8eefc",
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a5e20mezo",
+                "type": "column",
+                "settings": {
+                  "width": 33.33,
+                  "width_tablet": 33.333333333333336
+                },
+                "children": [
+                  {
+                    "id": "nj5a56nqmdgm",
+                    "type": "icon-box",
+                    "settings": {
+                      "icon": "rocket",
+                      "title": "Delivery & execution",
+                      "description": "Dedicated project leads keep work on schedule and on budget from day one.",
+                      "position": "top",
+                      "titleTag": "h3",
+                      "align": "left",
+                      "view": "stacked",
+                      "shape": "rounded",
+                      "iconSize": 28,
+                      "iconPadding": 16,
+                      "iconColor": "var(--dlb-primary)",
+                      "iconBg": "#e8eefc",
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a5ama0hkg",
+                "type": "column",
+                "settings": {
+                  "width": 33.33,
+                  "width_tablet": 33.333333333333336
+                },
+                "children": [
+                  {
+                    "id": "nj5a5nrq8pdj",
+                    "type": "icon-box",
+                    "settings": {
+                      "icon": "headphones",
+                      "title": "Support & aftercare",
+                      "description": "Responsive support and documented handover so nothing is left to chance.",
+                      "position": "top",
+                      "titleTag": "h3",
+                      "align": "left",
+                      "view": "stacked",
+                      "shape": "rounded",
+                      "iconSize": 28,
+                      "iconPadding": 16,
+                      "iconColor": "var(--dlb-primary)",
+                      "iconBg": "#e8eefc",
+                      "_bgColor": "#ffffff",
+                      "_padding": {
+                        "top": 32,
+                        "right": 28,
+                        "bottom": 32,
+                        "left": 28,
+                        "unit": "px"
+                      },
+                      "_radius": {
+                        "top": 12,
+                        "right": 12,
+                        "bottom": 12,
+                        "left": 12,
+                        "unit": "px"
+                      },
+                      "_shadow": "md"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a5sxve7oo",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "bgType": "color",
+              "bgColor": "var(--dlb-surface)",
+              "_padding": {
+                "top": 96,
+                "right": 0,
+                "bottom": 16,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a5vxv2p8p",
+                "type": "column",
+                "settings": {
+                  "width": 100
+                },
+                "children": [
+                  {
+                    "id": "nj5a501xuz2d",
+                    "type": "heading",
+                    "settings": {
+                      "title": "How we work",
+                      "tag": "div",
+                      "align": "center",
+                      "color": "var(--dlb-primary)",
+                      "titleFontSize": 13,
+                      "titleFontWeight": "700",
+                      "titleTransform": "uppercase",
+                      "titleLetterSpacing": 1.5
+                    }
+                  },
+                  {
+                    "id": "nj5a5824q9ku",
+                    "type": "heading",
+                    "settings": {
+                      "title": "A simple, proven process",
+                      "tag": "h2",
+                      "align": "center",
+                      "titleFontSize": 40,
+                      "titleFontSize_mobile": 30,
+                      "color": ""
+                    }
+                  },
+                  {
+                    "id": "nj5a5albfgzs",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>Four clear steps from first conversation to lasting results.</p>",
+                      "align": "center",
+                      "color": "var(--dlb-muted)",
+                      "maxWidth": 720
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a6b26e7h2",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "bgType": "color",
+              "bgColor": "var(--dlb-surface)",
+              "_padding": {
+                "top": 0,
+                "right": 0,
+                "bottom": 96,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a615tjjaq",
+                "type": "column",
+                "settings": {
+                  "width": 25,
+                  "width_tablet": 50,
+                  "_bgColor": "#ffffff",
+                  "_padding": {
+                    "top": 32,
+                    "right": 28,
+                    "bottom": 32,
+                    "left": 28,
+                    "unit": "px"
+                  },
+                  "_radius": {
+                    "top": 12,
+                    "right": 12,
+                    "bottom": 12,
+                    "left": 12,
+                    "unit": "px"
+                  },
+                  "_shadow": "sm"
+                },
+                "children": [
+                  {
+                    "id": "nj5a5hejlay0",
+                    "type": "heading",
+                    "settings": {
+                      "title": "01",
+                      "tag": "div",
+                      "color": "var(--dlb-primary)",
+                      "titleFontSize": 40,
+                      "titleFontWeight": "800"
+                    }
+                  },
+                  {
+                    "id": "nj5a5zstkype",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Discovery call",
+                      "tag": "h4",
+                      "titleFontSize": 20
+                    }
+                  },
+                  {
+                    "id": "nj5a6xz21gue",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>We listen, ask the right questions and confirm what success looks like.</p>",
+                      "color": "var(--dlb-muted)"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a69krf1gc",
+                "type": "column",
+                "settings": {
+                  "width": 25,
+                  "width_tablet": 50,
+                  "_bgColor": "#ffffff",
+                  "_padding": {
+                    "top": 32,
+                    "right": 28,
+                    "bottom": 32,
+                    "left": 28,
+                    "unit": "px"
+                  },
+                  "_radius": {
+                    "top": 12,
+                    "right": 12,
+                    "bottom": 12,
+                    "left": 12,
+                    "unit": "px"
+                  },
+                  "_shadow": "sm"
+                },
+                "children": [
+                  {
+                    "id": "nj5a6a47cwzr",
+                    "type": "heading",
+                    "settings": {
+                      "title": "02",
+                      "tag": "div",
+                      "color": "var(--dlb-primary)",
+                      "titleFontSize": 40,
+                      "titleFontWeight": "800"
+                    }
+                  },
+                  {
+                    "id": "nj5a6r8wlxg6",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Proposal",
+                      "tag": "h4",
+                      "titleFontSize": 20
+                    }
+                  },
+                  {
+                    "id": "nj5a6y9cxq7t",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>A fixed scope, timeline and price — agreed before any work starts.</p>",
+                      "color": "var(--dlb-muted)"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a67x2i55r",
+                "type": "column",
+                "settings": {
+                  "width": 25,
+                  "width_tablet": 50,
+                  "_bgColor": "#ffffff",
+                  "_padding": {
+                    "top": 32,
+                    "right": 28,
+                    "bottom": 32,
+                    "left": 28,
+                    "unit": "px"
+                  },
+                  "_radius": {
+                    "top": 12,
+                    "right": 12,
+                    "bottom": 12,
+                    "left": 12,
+                    "unit": "px"
+                  },
+                  "_shadow": "sm"
+                },
+                "children": [
+                  {
+                    "id": "nj5a64w4xkxa",
+                    "type": "heading",
+                    "settings": {
+                      "title": "03",
+                      "tag": "div",
+                      "color": "var(--dlb-primary)",
+                      "titleFontSize": 40,
+                      "titleFontWeight": "800"
+                    }
+                  },
+                  {
+                    "id": "nj5a6pwxsvkx",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Delivery",
+                      "tag": "h4",
+                      "titleFontSize": 20
+                    }
+                  },
+                  {
+                    "id": "nj5a6qtufmr2",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>Regular check-ins and a single point of contact throughout.</p>",
+                      "color": "var(--dlb-muted)"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a60waq3kj",
+                "type": "column",
+                "settings": {
+                  "width": 25,
+                  "width_tablet": 50,
+                  "_bgColor": "#ffffff",
+                  "_padding": {
+                    "top": 32,
+                    "right": 28,
+                    "bottom": 32,
+                    "left": 28,
+                    "unit": "px"
+                  },
+                  "_radius": {
+                    "top": 12,
+                    "right": 12,
+                    "bottom": 12,
+                    "left": 12,
+                    "unit": "px"
+                  },
+                  "_shadow": "sm"
+                },
+                "children": [
+                  {
+                    "id": "nj5a6eoh3o90",
+                    "type": "heading",
+                    "settings": {
+                      "title": "04",
+                      "tag": "div",
+                      "color": "var(--dlb-primary)",
+                      "titleFontSize": 40,
+                      "titleFontWeight": "800"
+                    }
+                  },
+                  {
+                    "id": "nj5a6unfhf7z",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Handover & support",
+                      "tag": "h4",
+                      "titleFontSize": 20
+                    }
+                  },
+                  {
+                    "id": "nj5a6oknkjrw",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>Documentation, training and ongoing support when you need it.</p>",
+                      "color": "var(--dlb-muted)"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a6dutfrx4",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 40,
+              "_padding": {
+                "top": 96,
+                "right": 0,
+                "bottom": 96,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a6dovlnyu",
+                "type": "column",
+                "settings": {
+                  "width": 40
+                },
+                "children": [
+                  {
+                    "id": "nj5a6n53srb7",
+                    "type": "heading",
+                    "settings": {
+                      "title": "FAQ",
+                      "tag": "div",
+                      "color": "var(--dlb-primary)",
+                      "titleFontSize": 13,
+                      "titleFontWeight": "700",
+                      "titleTransform": "uppercase",
+                      "titleLetterSpacing": 1.5
+                    }
+                  },
+                  {
+                    "id": "nj5a60yzapta",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Frequently asked questions",
+                      "tag": "h2",
+                      "titleFontSize": 36,
+                      "titleFontSize_mobile": 28
+                    }
+                  },
+                  {
+                    "id": "nj5a6n82bwlb",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>Can’t find what you are looking for? Our team replies to every enquiry within one business day.</p>",
+                      "color": "var(--dlb-muted)"
+                    }
+                  },
+                  {
+                    "id": "nj5a6snr3f8p",
+                    "type": "button",
+                    "settings": {
+                      "text": "Ask a question",
+                      "link": "/contact",
+                      "variant": "outline",
+                      "size": "md",
+                      "align": "left",
+                      "iconPosition": "after",
+                      "_width": "auto"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a6plpf5js",
+                "type": "column",
+                "settings": {
+                  "width": 60
+                },
+                "children": [
+                  {
+                    "id": "nj5a6wcnu06a",
+                    "type": "accordion",
+                    "settings": {
+                      "firstOpen": true,
+                      "allowMultiple": false,
+                      "items": [
+                        {
+                          "id": "aj5a6ikq64t2",
+                          "title": "How soon can you start?",
+                          "content": "<p>Most engagements begin within five working days of a signed proposal.</p>"
+                        },
+                        {
+                          "id": "aj5a63ax0taz",
+                          "title": "Which emirates do you cover?",
+                          "content": "<p>We work with clients across all seven emirates and the wider GCC.</p>"
+                        },
+                        {
+                          "id": "aj5a6hlsj7vm",
+                          "title": "How is pricing structured?",
+                          "content": "<p>Fixed quotes for defined scopes, or monthly retainers for ongoing work — always agreed in writing first.</p>"
+                        },
+                        {
+                          "id": "aj5a6brqf895",
+                          "title": "Can we visit your office?",
+                          "content": "<p>Of course. Book a meeting through the contact page and we will confirm a time within one business day.</p>"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a6kl1yuro",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "bgType": "gradient",
+              "gradientFrom": "var(--dlb-primary)",
+              "gradientTo": "var(--dlb-secondary)",
+              "gradientAngle": 120,
+              "textColor": "#ffffff",
+              "_padding": {
+                "top": 72,
+                "right": 0,
+                "bottom": 72,
+                "left": 0,
+                "unit": "px"
+              },
+              "verticalAlign": "center"
+            },
+            "children": [
+              {
+                "id": "nj5a695lf7j2",
+                "type": "column",
+                "settings": {
+                  "width": 66.67,
+                  "verticalAlign": "center"
+                },
+                "children": [
+                  {
+                    "id": "nj5a6ieud5xg",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Need something specific?",
+                      "tag": "h2",
+                      "color": "#ffffff",
+                      "titleFontSize": 36,
+                      "titleFontSize_mobile": 28
+                    }
+                  },
+                  {
+                    "id": "nj5a6w5qnazx",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>We build custom proposals for projects of every size.</p>",
+                      "color": "#dbeafe"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a6fllv410",
+                "type": "column",
+                "settings": {
+                  "width": 33.33,
+                  "verticalAlign": "center"
+                },
+                "children": [
+                  {
+                    "id": "nj5a6u8gz50m",
+                    "type": "button",
+                    "settings": {
+                      "text": "Request a proposal",
+                      "link": "/contact",
+                      "variant": "light",
+                      "size": "lg",
+                      "align": "right",
+                      "iconPosition": "after",
+                      "align_mobile": "left"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pj5a8xwwxcro",
+        "title": "Contact",
+        "slug": "contact",
+        "isHome": false,
+        "showInNav": true,
+        "seo": {
+          "title": "Contact | fulg",
+          "description": "",
+          "ogImage": ""
+        },
+        "sections": [
+          {
+            "id": "nj5a63aowvix",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 20,
+              "bgType": "image",
+              "bgImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1920&auto=format&fit=crop&q=70",
+              "bgColor": "#0f172a",
+              "overlayColor": "#0b1220",
+              "overlayOpacity": 0.72,
+              "textColor": "#ffffff",
+              "_padding": {
+                "top": 120,
+                "right": 0,
+                "bottom": 100,
+                "left": 0,
+                "unit": "px"
+              },
+              "_padding_mobile": {
+                "top": 80,
+                "right": 0,
+                "bottom": 64,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a6xlr8110",
+                "type": "column",
+                "settings": {
+                  "width": 100,
+                  "horizontalAlign": "center"
+                },
+                "children": [
+                  {
+                    "id": "nj5a6iupoazs",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Contact us",
+                      "tag": "h1",
+                      "align": "center",
+                      "color": "#ffffff",
+                      "titleFontSize": 52,
+                      "titleFontSize_mobile": 36
+                    }
+                  },
+                  {
+                    "id": "nj5a64duffgo",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>We would love to hear from you. Send a message or visit our office.</p>",
+                      "align": "center",
+                      "color": "#cbd5e1",
+                      "textFontSize": 18,
+                      "maxWidth": 680
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a8wvxjgqs",
+            "type": "section",
+            "settings": {
+              "layout": "boxed",
+              "gap": 30,
+              "_padding": {
+                "top": 96,
+                "right": 0,
+                "bottom": 96,
+                "left": 0,
+                "unit": "px"
+              }
+            },
+            "children": [
+              {
+                "id": "nj5a7lxtyoxd",
+                "type": "column",
+                "settings": {
+                  "width": 58,
+                  "width_tablet": 100,
+                  "_bgColor": "#ffffff",
+                  "_padding": {
+                    "top": 40,
+                    "right": 36,
+                    "bottom": 40,
+                    "left": 36,
+                    "unit": "px"
+                  },
+                  "_radius": {
+                    "top": 12,
+                    "right": 12,
+                    "bottom": 12,
+                    "left": 12,
+                    "unit": "px"
+                  },
+                  "_shadow": "md"
+                },
+                "children": [
+                  {
+                    "id": "nj5a7fykns0a",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Send us a message",
+                      "tag": "h2",
+                      "titleFontSize": 32
+                    }
+                  },
+                  {
+                    "id": "nj5a7n6zuw11",
+                    "type": "text",
+                    "settings": {
+                      "html": "<p>Tell us about your requirements and a member of our team will reply within one business day.</p>",
+                      "color": "var(--dlb-muted)"
+                    }
+                  },
+                  {
+                    "id": "nj5a72slygvr",
+                    "type": "form",
+                    "settings": {
+                      "formName": "Website enquiry",
+                      "submitText": "Send message",
+                      "successMessage": "Thank you! We received your message and will get back to you shortly.",
+                      "showLabels": true,
+                      "buttonAlign": "justify",
+                      "fields": [
+                        {
+                          "id": "fj5a7zcnj3zd",
+                          "label": "Full name",
+                          "type": "text",
+                          "name": "name",
+                          "required": true,
+                          "width": "50",
+                          "placeholder": ""
+                        },
+                        {
+                          "id": "fj5a7o23akxs",
+                          "label": "Email",
+                          "type": "email",
+                          "name": "email",
+                          "required": true,
+                          "width": "50",
+                          "placeholder": ""
+                        },
+                        {
+                          "id": "fj5a73z9cv76",
+                          "label": "Phone",
+                          "type": "tel",
+                          "name": "phone",
+                          "required": false,
+                          "width": "50",
+                          "placeholder": ""
+                        },
+                        {
+                          "id": "fj5a79sd11p0",
+                          "label": "Company",
+                          "type": "text",
+                          "name": "company",
+                          "required": false,
+                          "width": "50",
+                          "placeholder": ""
+                        },
+                        {
+                          "id": "fj5a7brb3daz",
+                          "label": "Message",
+                          "type": "textarea",
+                          "name": "message",
+                          "required": true,
+                          "width": "100",
+                          "placeholder": ""
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "nj5a87nlky1p",
+                "type": "column",
+                "settings": {
+                  "width": 42,
+                  "width_tablet": 100,
+                  "_padding": {
+                    "top": 20,
+                    "right": 10,
+                    "bottom": 20,
+                    "left": 30,
+                    "unit": "px"
+                  },
+                  "_padding_tablet": {
+                    "top": 30,
+                    "right": 10,
+                    "bottom": 10,
+                    "left": 10,
+                    "unit": "px"
+                  }
+                },
+                "children": [
+                  {
+                    "id": "nj5a7n3c30rk",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Contact details",
+                      "tag": "h3",
+                      "titleFontSize": 24
+                    }
+                  },
+                  {
+                    "id": "nj5a7d1jbrs3",
+                    "type": "icon-list",
+                    "settings": {
+                      "layout": "vertical",
+                      "items": [
+                        {
+                          "id": "ij5a7idnwpvr",
+                          "text": "asd",
+                          "icon": "phone",
+                          "link": "tel:asd"
+                        },
+                        {
+                          "id": "ij5a78kxiztr",
+                          "text": "as@mail.com",
+                          "icon": "mail",
+                          "link": "mailto:as@mail.com"
+                        },
+                        {
+                          "id": "ij5a7rn1u338",
+                          "text": "asd",
+                          "icon": "map-pin",
+                          "link": ""
+                        },
+                        {
+                          "id": "ij5a7jybdzka",
+                          "text": "Sunday – Thursday, 9:00 – 18:00",
+                          "icon": "clock",
+                          "link": ""
+                        }
+                      ],
+                      "gap": 16,
+                      "iconColor": "var(--dlb-primary)"
+                    }
+                  },
+                  {
+                    "id": "nj5a7dtnfc6g",
+                    "type": "divider",
+                    "settings": {
+                      "style": "solid",
+                      "weight": 1,
+                      "width": 100,
+                      "align": "center",
+                      "gap": 10,
+                      "color": "#e2e8f0"
+                    }
+                  },
+                  {
+                    "id": "nj5a703r6xrm",
+                    "type": "heading",
+                    "settings": {
+                      "title": "Prefer WhatsApp?",
+                      "tag": "h4",
+                      "titleFontSize": 18
+                    }
+                  },
+                  {
+                    "id": "nj5a8zlzgu7d",
+                    "type": "whatsapp",
+                    "settings": {
+                      "phone": "",
+                      "message": "Hello! I would like to know more about your services.",
+                      "label": "Chat with us on WhatsApp",
+                      "floating": false,
+                      "position": "right",
+                      "siteName": "fulg"
+                    }
+                  },
+                  {
+                    "id": "nj5a8qbc64bu",
+                    "type": "social-icons",
+                    "settings": {
+                      "shape": "rounded",
+                      "colorMode": "official",
+                      "size": 18,
+                      "items": [
+                        {
+                          "id": "sj5a8nsfyycj",
+                          "network": "facebook",
+                          "url": "https://facebook.com/"
+                        },
+                        {
+                          "id": "sj5a8l4y8nls",
+                          "network": "instagram",
+                          "url": "https://instagram.com/"
+                        },
+                        {
+                          "id": "sj5a8ykkh6h6",
+                          "network": "linkedin",
+                          "url": "https://linkedin.com/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nj5a8mr3clyv",
+            "type": "section",
+            "settings": {
+              "layout": "full",
+              "gap": 0
+            },
+            "children": [
+              {
+                "id": "nj5a8uu4121t",
+                "type": "column",
+                "settings": {
+                  "width": 100,
+                  "_padding": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0,
+                    "unit": "px"
+                  }
+                },
+                "children": [
+                  {
+                    "id": "nj5a8xdofyun",
+                    "type": "map",
+                    "settings": {
+                      "address": "asd",
+                      "zoom": 14,
+                      "height": 420
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
