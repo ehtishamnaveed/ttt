@@ -310,13 +310,13 @@
       "siteName": "fulg",
       "logoUrl": "",
       "colors": {
-        "primary": "#0e7490",
-        "secondary": "#082f49",
-        "accent": "#f97316",
+        "primary": "#16a34a",
+        "secondary": "#14532d",
+        "accent": "#f59e0b",
         "text": "#1e293b",
         "muted": "#64748b",
         "background": "#ffffff",
-        "surface": "#f4f6fa"
+        "surface": "#f0fdf4"
       },
       "fonts": {
         "heading": "Plus Jakarta Sans",
@@ -375,7 +375,7 @@
                   ],
                   "iconColor": "var(--dlb-accent)",
                   "iconSize": 14,
-                  "textColor": "#e2e8f0",
+                  "textColor": "#d1fae5",
                   "textFontSize": 13
                 }
               }
@@ -414,7 +414,7 @@
                     }
                   ],
                   "align": "right",
-                  "iconColor": "#e2e8f0",
+                  "iconColor": "#d1fae5",
                   "bgColor": "rgba(255,255,255,0.08)"
                 }
               }
@@ -742,7 +742,7 @@
           "layout": "boxed",
           "gap": 10,
           "bgType": "color",
-          "bgColor": "#020617",
+          "bgColor": "#022c0c",
           "_padding": {
             "top": 16,
             "right": 0,
@@ -821,8 +821,8 @@
               "verticalAlign": "center",
               "bgType": "image",
               "bgImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1920&auto=format&fit=crop&q=70",
-              "bgColor": "#0f172a",
-              "overlayColor": "#0b1220",
+              "bgColor": "#052e16",
+              "overlayColor": "#031209",
               "overlayOpacity": 0.62,
               "textColor": "#ffffff",
               "_padding": {
@@ -874,7 +874,7 @@
                     "type": "text",
                     "settings": {
                       "html": "<p>From first consultation to final delivery, we help companies across the Emirates move faster with less risk.</p>",
-                      "color": "#e2e8f0",
+                      "color": "#d1fae5",
                       "textFontSize": 19,
                       "textFontSize_mobile": 17,
                       "maxWidth": 640,
@@ -1138,7 +1138,7 @@
                       "iconSize": 28,
                       "iconPadding": 16,
                       "iconColor": "var(--dlb-primary)",
-                      "iconBg": "#e8eefc",
+                      "iconBg": "#dcfce7",
                       "_bgColor": "#ffffff",
                       "_padding": {
                         "top": 32,
@@ -1182,7 +1182,7 @@
                       "iconSize": 28,
                       "iconPadding": 16,
                       "iconColor": "var(--dlb-primary)",
-                      "iconBg": "#e8eefc",
+                      "iconBg": "#dcfce7",
                       "_bgColor": "#ffffff",
                       "_padding": {
                         "top": 32,
@@ -1226,7 +1226,7 @@
                       "iconSize": 28,
                       "iconPadding": 16,
                       "iconColor": "var(--dlb-primary)",
-                      "iconBg": "#e8eefc",
+                      "iconBg": "#dcfce7",
                       "_bgColor": "#ffffff",
                       "_padding": {
                         "top": 32,
@@ -1682,8 +1682,8 @@
               "gap": 20,
               "bgType": "image",
               "bgImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1920&auto=format&fit=crop&q=70",
-              "bgColor": "#0f172a",
-              "overlayColor": "#0b1220",
+              "bgColor": "#052e16",
+              "overlayColor": "#031209",
               "overlayOpacity": 0.72,
               "textColor": "#ffffff",
               "_padding": {
@@ -1863,7 +1863,7 @@
                       "shape": "rounded",
                       "iconSize": 28,
                       "iconPadding": 16,
-                      "iconBg": "#e8eefc",
+                      "iconBg": "#dcfce7",
                       "iconColor": "var(--dlb-primary)",
                       "_bgColor": "#ffffff",
                       "_padding": {
@@ -1906,7 +1906,7 @@
                       "shape": "rounded",
                       "iconSize": 28,
                       "iconPadding": 16,
-                      "iconBg": "#e8eefc",
+                      "iconBg": "#dcfce7",
                       "iconColor": "var(--dlb-primary)",
                       "_bgColor": "#ffffff",
                       "_padding": {
@@ -1949,7 +1949,7 @@
                       "shape": "rounded",
                       "iconSize": 28,
                       "iconPadding": 16,
-                      "iconBg": "#e8eefc",
+                      "iconBg": "#dcfce7",
                       "iconColor": "var(--dlb-primary)",
                       "_bgColor": "#ffffff",
                       "_padding": {
@@ -2073,7 +2073,7 @@
                       "iconSize": 28,
                       "iconPadding": 16,
                       "iconColor": "var(--dlb-primary)",
-                      "iconBg": "#e8eefc",
+                      "iconBg": "#dcfce7",
                       "_bgColor": "#ffffff",
                       "_padding": {
                         "top": 32,
@@ -2117,7 +2117,7 @@
                       "iconSize": 28,
                       "iconPadding": 16,
                       "iconColor": "var(--dlb-primary)",
-                      "iconBg": "#e8eefc",
+                      "iconBg": "#dcfce7",
                       "_bgColor": "#ffffff",
                       "_padding": {
                         "top": 32,
@@ -2161,7 +2161,7 @@
                       "iconSize": 28,
                       "iconPadding": 16,
                       "iconColor": "var(--dlb-primary)",
-                      "iconBg": "#e8eefc",
+                      "iconBg": "#dcfce7",
                       "_bgColor": "#ffffff",
                       "_padding": {
                         "top": 32,
@@ -2400,8 +2400,8 @@
               "gap": 20,
               "bgType": "image",
               "bgImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1920&auto=format&fit=crop&q=70",
-              "bgColor": "#0f172a",
-              "overlayColor": "#0b1220",
+              "bgColor": "#052e16",
+              "overlayColor": "#031209",
               "overlayOpacity": 0.72,
               "textColor": "#ffffff",
               "_padding": {
@@ -2555,7 +2555,7 @@
                       "iconSize": 28,
                       "iconPadding": 16,
                       "iconColor": "var(--dlb-primary)",
-                      "iconBg": "#e8eefc",
+                      "iconBg": "#dcfce7",
                       "_bgColor": "#ffffff",
                       "_padding": {
                         "top": 32,
@@ -2599,7 +2599,7 @@
                       "iconSize": 28,
                       "iconPadding": 16,
                       "iconColor": "var(--dlb-primary)",
-                      "iconBg": "#e8eefc",
+                      "iconBg": "#dcfce7",
                       "_bgColor": "#ffffff",
                       "_padding": {
                         "top": 32,
@@ -2643,7 +2643,7 @@
                       "iconSize": 28,
                       "iconPadding": 16,
                       "iconColor": "var(--dlb-primary)",
-                      "iconBg": "#e8eefc",
+                      "iconBg": "#dcfce7",
                       "_bgColor": "#ffffff",
                       "_padding": {
                         "top": 32,
@@ -3171,8 +3171,8 @@
               "gap": 20,
               "bgType": "image",
               "bgImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1920&auto=format&fit=crop&q=70",
-              "bgColor": "#0f172a",
-              "overlayColor": "#0b1220",
+              "bgColor": "#052e16",
+              "overlayColor": "#031209",
               "overlayOpacity": 0.72,
               "textColor": "#ffffff",
               "_padding": {
@@ -3417,7 +3417,7 @@
                       "width": 100,
                       "align": "center",
                       "gap": 10,
-                      "color": "#e2e8f0"
+                      "color": "#d1fae5"
                     }
                   },
                   {
