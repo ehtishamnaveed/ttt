@@ -1,0 +1,85 @@
+# Dynamicleo CMS — Auto-generated .htaccess
+# Optimized for LiteSpeed/Apache (Namecheap shared hosting)
+
+# --- Compression (LiteSpeed + Apache) ---
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css
+  AddOutputFilterByType DEFLATE text/javascript application/javascript application/x-javascript
+  AddOutputFilterByType DEFLATE application/json application/ld+json
+  AddOutputFilterByType DEFLATE image/svg+xml application/xml text/x-component
+  AddOutputFilterByType DEFLATE application/vnd.ms-fontobject font/opentype font/ttf font/woff font/woff2
+</IfModule>
+
+# LiteSpeed-specific compression (preferred on Namecheap)
+<IfModule mod_lsapi.c>
+  LSAPIOutputHandlers off
+  mod_lsapi on
+</IfModule>
+
+# --- Browser Caching ---
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/html                 "access plus 1 hour"
+  ExpiresByType text/css                  "access plus 1 month"
+  ExpiresByType text/javascript           "access plus 1 month"
+  ExpiresByType application/javascript    "access plus 1 month"
+  ExpiresByType application/json          "access plus 0 seconds"
+  ExpiresByType image/png                 "access plus 1 year"
+  ExpiresByType image/jpeg                "access plus 1 year"
+  ExpiresByType image/gif                 "access plus 1 year"
+  ExpiresByType image/webp                "access plus 1 year"
+  ExpiresByType image/svg+xml             "access plus 1 year"
+  ExpiresByType image/x-icon              "access plus 1 year"
+  ExpiresByType font/woff2                "access plus 1 year"
+  ExpiresByType font/woff                 "access plus 1 year"
+  ExpiresByType font/ttf                  "access plus 1 year"
+  ExpiresByType application/font-woff2    "access plus 1 year"
+  ExpiresByType application/font-woff     "access plus 1 year"
+  ExpiresByType video/mp4                 "access plus 1 year"
+  ExpiresByType video/webm                "access plus 1 year"
+</IfModule>
+
+# LiteSpeed cache headers
+<IfModule mod_headers.c>
+  Header set Cache-Control "public, max-age=31536000, immutable" ".(css|js|png|jpe?g|gif|webp|svg|woff2?|ttf|eot|ico|mp4|webm)$"
+  Header set Cache-Control "public, max-age=3600" ".html$"
+  Header set Cache-Control "no-cache, must-revalidate" ".(json|xml)$"
+</IfModule>
+
+# --- Security Headers ---
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set X-XSS-Protection "1; mode=block"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+</IfModule>
+
+# --- Block Sensitive Files ---
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Block dotfiles (except .htaccess)
+  RewriteCond %{REQUEST_URI} (^|/).(?!htaccess) [NC]
+  RewriteRule ^ - [F,L]
+
+  # Block access to contact.php directly (form only via POST)
+  RewriteCond %{REQUEST_METHOD} !^(POST)$
+  RewriteRule ^contact\.php$ - [F,L]
+</IfModule>
+
+# --- Remove .html Extension (clean URLs) ---
+<IfModule mod_rewrite.c>
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteRule ^(.*)$ $1.html [L]
+</IfModule>
+
+# --- Force HTTPS (uncomment when SSL is set up) ---
+# <IfModule mod_rewrite.c>
+#   RewriteCond %{HTTPS} off
+#   RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# </IfModule>
+
+# --- Default Index ---
+DirectoryIndex index.html
